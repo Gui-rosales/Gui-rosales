@@ -3,7 +3,7 @@
 # About me :)
 👨‍💻 Currently i'm studying to become a FullStack developer. <br>
 🖥️ I'm passionate about technologies and its possibilities. <br>
-😜 Trying to have the next tech disruptive idea. <br>
+😜 Trying to come up with the next tech disruptive idea. <br>
 🎮 On my free time I play games. <br>
 🎸 Sometimes i play my guitar <br>
 
