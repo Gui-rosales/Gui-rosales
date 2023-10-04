@@ -1,15 +1,15 @@
 ### 👋 Hi, I'm Guilherme Rosales
 
 # About me :)
-👨‍💻 I'm studying to become a FullStack developer. <br>
-🖥️ I'm passionate about technologies and its possibilities. <br>
-🎮 On my free time I play games. <br>
-🎸 Sometimes i play my guitar <br>
+👨‍💻 Currently working as a full-stack Web Developer. <br>
+🖥️ I'm passionate about technology and its possibilities. <br>
+🎮 In my free time I play games. <br>
+🎸 Sometimes I play my guitar <br>
 
 
 # Techs
 
-Here it is some technologies and languages i've been studying.
+Here it is some technologies and languages I've been studying.
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge) <br>
 
