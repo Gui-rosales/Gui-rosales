@@ -3,9 +3,7 @@
 # About me :)
 👨‍💻 Currently working as a full-stack Web Developer. <br>
 🖥️ I'm passionate about technology and its possibilities. <br>
-🎮 In my free time I play games. <br>
-🎸 Sometimes I play my guitar <br>
-
+🎮/🎸  In my free time I play games and guitar. <br>
 
 # Techs
 
